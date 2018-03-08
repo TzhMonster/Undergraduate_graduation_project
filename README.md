@@ -28,5 +28,3 @@
 数据集
 -
 - /src/data
-
-test
